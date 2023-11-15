@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/New_Electric_Car/static/css/main.2d60cc01.css",
+    "main.js": "/New_Electric_Car/static/js/main.24c358f6.js",
+    "static/js/483.74d5eea3.chunk.js": "/New_Electric_Car/static/js/483.74d5eea3.chunk.js",
+    "service-worker.js": "/New_Electric_Car/service-worker.js",
+    "index.html": "/New_Electric_Car/index.html",
+    "main.2d60cc01.css.map": "/New_Electric_Car/static/css/main.2d60cc01.css.map",
+    "main.24c358f6.js.map": "/New_Electric_Car/static/js/main.24c358f6.js.map",
+    "483.74d5eea3.chunk.js.map": "/New_Electric_Car/static/js/483.74d5eea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d60cc01.css",
+    "static/js/main.24c358f6.js"
+  ]
+}
